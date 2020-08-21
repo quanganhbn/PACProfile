@@ -22,13 +22,13 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://longthinh.imfast.io/PACProfile/Ra1n.js</string>
+			<string>https://raw.githubusercontent.com/quanganhbn/PACProfile/master/Pacfile.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
 		<dict>
 			<key>LockScreenFootnote</key>
-			<string>This iPhone is supervised and managed by  AnhKenDy</string>
+			<string>This iPhone is supervised and managed by  Tran Khanh Du</string>
 			<key>PayloadDisplayName</key>
 			<string>Lock Screen Settings</string>
 			<key>PayloadIdentifier</key>
