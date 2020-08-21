@@ -32,7 +32,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Lock Screen Settings</string>
 			<key>PayloadIdentifier</key>
-			<string>com.AnhKenDy.lockscreen</string>
+			<string>com.ChanKanZu.lockscreen</string>
 			<key>PayloadType</key>
 			<string>com.apple.shareddeviceconfiguration</string>
 			<key>PayloadUUID</key>
@@ -51,14 +51,14 @@
 
 ❀ PACRa1n: compatibility-mode = 1 or 3, tcp-connection = true, skip-server-cert-verify = true
 
-✆ Contact us: t.me/AnhKenDy (Nicegram)</string>
+✆ Contact us: t.me/Chankanzu (Nicegram)</string>
 	
 	<key>PayloadDisplayName</key>
 	<string> PACRa1n</string>
 	<key>PayloadIdentifier</key>
 	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
     <key>PayloadOrganization</key>
-    <string>AnhKenDy Inc.</string>
+    <string>Chankanzu Inc.</string>
     <key>PayloadRebootSuggested</key>
     <true/>
 	<key>PayloadRemovalDisallowed</key>
