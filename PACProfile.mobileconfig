@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>LockScreenFootnote</key>
-			<string>This iPhone is supervised and managed by  Tran Khanh Du</string>
+			<string>This iPhone is supervised and managed by  Trần Khánh Dư</string>
 			<key>PayloadDisplayName</key>
 			<string>Lock Screen Settings</string>
 			<key>PayloadIdentifier</key>
@@ -58,7 +58,7 @@
 	<key>PayloadIdentifier</key>
 	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
     <key>PayloadOrganization</key>
-    <string>Chankanzu Inc.</string>
+    <string>Trần Khánh Dư Inc.</string>
     <key>PayloadRebootSuggested</key>
     <true/>
 	<key>PayloadRemovalDisallowed</key>
