@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.oxford8.chankanzuicloud</string>
+				<string>com.chankanzu.oxford8</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>8.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>OALD 8.0</string>
+				<string>OALD8.0</string>
 			</dict>
 		</dict>
 	</array>
