@@ -3,4 +3,5 @@ itms-services://?action=download-manifest&url= https://raw.githubusercontent.com
 
 
 
-//copy đoạn link bên trên rồi dán vào safari nhé
+//Bạn tải 1 app bất kỳ
+//sau đó copy đoạn link bên trên rồi dán vào safari nhé
